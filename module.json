@@ -7,8 +7,9 @@
       "name": "Robin Skye"
     }
   ],
-  "version": "1",
-  "minimumCoreVersion": "0.10.0",
+  "version": "1.0",
+  "minimumCoreVersion": "0.10",
+  "compatibleCoreVersion": "0.10",
   "packs": [
 		{
 		  "label": "Gobbiestiary - Bestiary",
@@ -29,6 +30,10 @@
 		  "private": false
 		}
 	]
+  "system": [
+    "pf2e"
+  ],
+  "minimumSystemVersion": "3.12.2.10",
 	  "url": "https://github.com/HalflingMenace/Gobbiestiary",
 	  "manifest": "https://raw.githubusercontent.com/HalflingMenace/Gobbiestiary/master/module.json",
 	  "download": "https://github.com/HalflingMenace/Gobbiestiary/archive/refs/heads/main.zip"

@@ -29,4 +29,7 @@
 		  "private": false
 		}
 	]
+	  "url": "https://github.com/HalflingMenace/Gobbiestiary",
+	  "manifest": "https://raw.githubusercontent.com/HalflingMenace/Gobbiestiary/master/module.json",
+	  "download": "https://github.com/HalflingMenace/Gobbiestiary/archive/refs/heads/main.zip"
 }
